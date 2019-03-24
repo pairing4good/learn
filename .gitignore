@@ -1,5 +1,7 @@
 ### IntelliJ ###
 .idea/
+**/*/src/
+kata/hello-world/out/
 
 ### Gradle ###
 .gradle
