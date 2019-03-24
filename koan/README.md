@@ -2,7 +2,7 @@
 
 ```
 ko·an
-/ˈkōän/Submit
+/ˈkōän/
 noun
 an problem to solve that is used to demonstrate software 'nuggets of truth'.
 ```
