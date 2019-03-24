@@ -1,9 +1,9 @@
 # Koan
 
 ```
-ko·an <br/>
-/ˈkōän/Submit <br/>
-noun <br/>
+ko·an
+/ˈkōän/Submit
+noun
 an problem to solve that is used to demonstrate software 'nuggets of truth'.
 ```
 
