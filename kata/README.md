@@ -2,7 +2,7 @@
 
 ```
 ka·ta
-/ˈkädə/Submit
+/ˈkädə/
 noun
 a system of individual training exercises for software development practitioners.
 ```
