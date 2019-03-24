@@ -3,6 +3,11 @@ package com.pairgood.kata;
 public class HelloWorld {
 
     public String say(String name) {
-        return "fix me";
+
+        String message = "Hello World";
+        if(name != null && name.length() > 0){
+            message += " " + name;
+        }
+        return message + "!";
     }
 }

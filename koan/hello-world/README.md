@@ -23,3 +23,8 @@
 **Given** that HelloWorld is available <br/>
 **When** no name (`null`) is provided <br/>
 **Then** `Hello World!` is presented
+
+## Hints
+1. Check if a value is not null (example: `if(value != null)`)
+1. Check the length of a String (example: `value.length()`)
+1. Concatenate (put together) two or more String values with a `+` (example: `"first value" + "second value" + "third value"`)
